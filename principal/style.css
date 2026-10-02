@@ -62,7 +62,7 @@ main {
 /* Efeito quando passa o mouse */
 
 .card img:hover {
-    opacity: 0.9;
+    opacity: 0.6;
 }
 
 
